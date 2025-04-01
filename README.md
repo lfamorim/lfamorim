@@ -1,5 +1,7 @@
 # <⚡/> LUCAS FERNANDO AMORIM
 
+![](https://komarev.com/ghpvc/?username=lfamorim&color=green)
+
 > [!IMPORTANT]
 > **[CTO @ CreditHub & Goodfellas]** • **[Founder]** • **[Hacker]** • **[Ocean Sailor]** • **[0x41]**
 > **<Current GPS: Panama 🇵🇦>**
